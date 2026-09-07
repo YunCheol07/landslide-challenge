@@ -1,0 +1,38 @@
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+configs/local.json
+*token*
+*secret*
+# Data, weights and generated predictions (never track)
+data/
+train/
+samples/
+assets/
+outputs/
+work/
+cache/
+*.npy
+*.npz
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.geojson
+prediction*.csv
+*.zip
+*.tar
+*.gz
+# Runtime
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
