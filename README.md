@@ -20,5 +20,7 @@
 - submission/: 최종 predict.ipynb와 assets/를 구성할 위치
 
 ## 관리
-코드·문서·설정은 Git으로 관리하며 데이터·모델·키는 제외한다. 원격 저장소는 설정하지 않았다.
+코드·문서·설정은 Git으로 관리하며 데이터·모델·키는 제외한다.
+GitHub 비공개 저장소: https://github.com/YunCheol07/landslide-challenge
+main은 origin/main을 추적한다. 데이터·가중치와 실행 출력은 push하지 않는다.
 대회 규칙은 docs/competition.md, 작업 규칙은 AGENTS.md를 따른다.
