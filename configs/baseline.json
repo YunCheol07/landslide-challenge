@@ -1,0 +1,9 @@
+{
+  "version": "ndvi_prior_v1",
+  "seed": 42,
+  "ring_inner_px": 3.0,
+  "ring_outer_px": 8.0,
+  "min_valid_pixels": 1,
+  "positive_rule": "inside_minus_ring_ndvi_lte_threshold",
+  "boundary": "unchanged_prior"
+}

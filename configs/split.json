@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "seed": 42,
+  "validation_scene_count": 2,
+  "target_validation_fraction": 0.2,
+  "algorithm": "class_count_balanced_scene_v1"
+}

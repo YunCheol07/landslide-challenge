@@ -1,1 +1,2 @@
-experiment_id,created_at,git_commit,config,split_id,seed,change,macro_f1,site_miou,final_score,inference_seconds,status
+experiment_id,created_at,git_commit,config,split_id,seed,change,macro_f1,site_miou,final_score,inference_seconds,status,source_sha256,git_dirty,diagnostic_valid_geometry_only_site_miou
+baseline_v1,2026-09-07T23:54:32.056088+09:00,cafe4291151a45ccc22a6bf0f6dd8efcbd0b7e94,configs/baseline.json,class_count_balanced_scene_v1_seed42,42,initial train-only NDVI threshold with unchanged prior boundary,0.7438656909169178,,,0.5279845829999998,shape_blocked; local validation; uncommitted source,b80427bbc9e18b6ab5e2bb21e763c706ad61ad8b9f3d40eb70d211ab8b590897,true,0.23237802601920904
