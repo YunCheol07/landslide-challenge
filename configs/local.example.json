@@ -1,6 +1,6 @@
 {
-  "train_dir": "/Users/leocynuh/Downloads/train",
-  "baseline_dir": "/Users/leocynuh/Downloads/02_landslide_baseline_updated",
+  "train_dir": "/absolute/path/to/train",
+  "baseline_dir": "/absolute/path/to/baseline",
   "seed": 42,
   "split_group": "scene_id"
 }

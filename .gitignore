@@ -36,3 +36,21 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# Restricted labels, derived artifacts and local reports
+labels/
+images/
+bands/
+models/
+checkpoints/
+private/
+local/
+sites.json
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pdf
+*.mp4
+*.csv.tmp
